@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 
-<h3 align="start">Ключевые навыки</h2>
+<h3 align="start">Ключевые навыки ✨</h2>
   
 <!--
 **sokovv/sokovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
