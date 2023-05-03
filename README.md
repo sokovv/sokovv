@@ -1,4 +1,4 @@
-<h2 align="center">Привет всем! Я веб-разработчик <a href="https://my-site-ymh8.onrender.com" target="_blank">Валерий Соколов.</a> 
+<h2 align="center">Привет! Я веб-разработчик <a href="https://my-site-ymh8.onrender.com" target="_blank">Валерий Соколов.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 
