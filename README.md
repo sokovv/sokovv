@@ -22,10 +22,15 @@
 <h3 align="start">Мои проекты 📚</h3>
 
 <h4>• Онлайн-система администрирования кинозалов (https://github.com/sokovv/Cinema) </h4>
-<h4>• email: komproekt42@gmail.com</p>
-<h4>• Telegram: https://t.me/Sokolov_web_developer</h4>
-<h4>• Портфолио: https://my-site-ymh8.onrender.com/</h4>
-<h4>• Github: https://github.com/sokovv</p>
+<h4>• Интернет-магазин обуви (https://github.com/sokovv/ra-diplom-frontend)</p>
+<h4>• Бот для поиска и хранения информации (https://github.com/sokovv/ahj-diploma)</h4>
+<h4>• CRUD функционал (https://github.com/sokovv/HomeWork-7.2-fron)</h4>
+<h4>• Доска Трелло (https://github.com/sokovv/ahj-dnd1.1)</p>
+<h4>• Игра Гоблин (https://github.com/sokovv/ahj-event)</p>
+<h4>• Онлайн-игра «Ходилка» в стиле фэнтези (https://github.com/sokovv/js-advanced-diploma)</p>
+<h4>• Веб-менеджер личных финансов (https://github.com/sokovv/diplom-JS-)</p>
+<h4>• Сайт-биржа по продаже криптовалюты (https://github.com/sokovv/bjs-diplom)</p>
+
 <br>
 
 <h3 align="start">Мои контакты 📞</h3>
