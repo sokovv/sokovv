@@ -20,8 +20,8 @@
 <br>
 
 <h3 align="start">Мои контакты 📞</h3>
-
-<p>• тел. +7 (923) 602-26-25 </p>
+<br>
+<p>• Телефон, WhatsApp: +7 (923) 602-26-25 </p>
 <p>• email: komproekt42@gmail.com</p>
 <p>• Telegram: https://t.me/Sokolov_web_developer</p>
 <p>• Портфолио: https://my-site-ymh8.onrender.com/</p>
