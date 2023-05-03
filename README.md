@@ -19,9 +19,9 @@
 
 <br>
 
-<h3 align="start">Мои проекты 📞</h3>
+<h3 align="start">Мои проекты 📚</h3>
 
-<h4>• Телефон, WhatsApp: +7 (923) 602-26-25 </h4>
+<h4>• Онлайн-система администрирования кинозалов (https://github.com/sokovv/Cinema) </h4>
 <h4>• email: komproekt42@gmail.com</p>
 <h4>• Telegram: https://t.me/Sokolov_web_developer</h4>
 <h4>• Портфолио: https://my-site-ymh8.onrender.com/</h4>
