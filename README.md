@@ -1,7 +1,8 @@
 <h2 align="center">Привет! Я веб-разработчик <a href="https://my-site-ymh8.onrender.com" target="_blank">Валерий Соколов.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
-
+<br>
+<br>
 <h3 align="start">Ключевые навыки ✍</h3>
 
 <p> • Вёрстка веб-страниц: HTML, CSS</p>
